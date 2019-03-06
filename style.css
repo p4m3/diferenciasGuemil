@@ -1,0 +1,45 @@
+.percentage-container {
+  display: block;
+  padding: 0;
+  height: 60px;
+}
+
+.percentage-segment {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.percentage-segment > p {
+  color: white;
+}
+
+
+.icon-bar {
+  margin-top: 0.5em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon {
+  display: inline-block;
+  height: 40px;
+}
+
+.icon-image {
+  display: inline-block;
+  height: 40px;
+  vertical-align: middle;
+}
+
+.icon-not-found {
+}
+
+.icon > p {
+  display: inline-block;
+}
+
+.title_spa {
+  font-weight: lighter;
+}
