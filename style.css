@@ -1,3 +1,7 @@
+hr {
+  border-top: 1px solid lightgrey;
+}
+
 .percentage-container {
   display: block;
   padding: 0;
