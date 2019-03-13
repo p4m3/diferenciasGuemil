@@ -289,13 +289,14 @@ const data = [
         'title': 'Octagono-rojo',
         'value': 116,
         'icon': 'svg/octagono_rojo.svg',
-        'color': '#222',
+        'color': 1,
+
       },
       {
         'title': 'Triangulo-amarillo',
         'value': 104,
         'icon': 'svg/triangulo_amarillo.svg',
-        'color': '#666',
+        'color': 1,
       },
       {
         'title': 'N.N.',

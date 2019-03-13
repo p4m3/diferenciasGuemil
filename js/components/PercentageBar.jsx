@@ -24,7 +24,7 @@ function PercentageBar(props) {
 
     let ratio = (value / total);
     let width = ratio * 100;
-    let background_color = samples[i].color || background_colors[i];
+    let background_color = background_colors[i];
 
     let style = {
       'width': `${width}%`,
