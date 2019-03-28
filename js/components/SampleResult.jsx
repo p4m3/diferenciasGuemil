@@ -26,14 +26,27 @@ class SampleResult extends Component {
       color: e.color || false,
     }));
 
+    let total = 0;
+
+    for (let i = 0; i < samples.length; i++) {
+      total += samples[i].value;
+    }
+
     return (
-      <div class="row">
-        <h4 class="col-md-4">
-          {title_english}
-          <br />
-          <span lang="es">{title_spanish}</span>
+      <div className="row">
+        <h4 className="col-md-4">
+          <div className="row">
+            <div className="col-xs-8">
+              {title_english}
+              <br />
+              <span lang="es">{title_spanish}</span>
+            </div>
+            <div className="col-xs-4 text-right">
+              <small>TOTAL: {total}</small>
+            </div>
+          </div>
         </h4>
-        <div class="col-md-8">
+        <div className="col-md-8">
           <PercentageBar samples={samples} />
           <IconBar icons={icons} />
         </div>

@@ -58,17 +58,17 @@ const data = [
     'items': [
       {
         'title': '39_Shelter',
-        'value': 154,
+        'value': 164,
         'icon': 'svg/39_Shelter.svg',
       },
       {
         'title': '38_House',
-        'value': 40,
+        'value': 47,
         'icon': 'svg/38_House.svg',
       },
       {
         'title': 'N.N.',
-        'value': 12,
+        'value': 2,
         'icon': ''
       },
       {
@@ -84,7 +84,7 @@ const data = [
     'items': [
       {
         'title': '35_Mobile_info',
-        'value': 162,
+        'value': 179,
         'icon': 'svg/35_Mobile_info.svg',
       },
       {
@@ -99,7 +99,7 @@ const data = [
       },
       {
         'title': 'N.N',
-        'value': 11,
+        'value': 2,
         'icon': ''
       },
     ],
@@ -110,7 +110,7 @@ const data = [
     'items': [
       {
         'title': '18_Evacuate_way_out',
-        'value': 155,
+        'value': 171,
         'icon': 'svg/18_Evacuate_way_out.svg',
       },
       {
@@ -120,12 +120,12 @@ const data = [
       },
       {
         'title': 'N.N.',
-        'value': 15,
+        'value': 7,
         'icon': ''
       },
       {
         'title': '19_Move_to_shelter',
-        'value': 8,
+        'value': 9,
         'icon': 'svg/19_Move_to_shelter.svg'
       },
     ],
@@ -136,7 +136,7 @@ const data = [
     'items': [
       {
         'title': '27_Geo_point',
-        'value': 198,
+        'value': 202,
         'icon': 'svg/27_Geo_point.svg',
       },
       {
@@ -146,7 +146,7 @@ const data = [
       },
       {
         'title': 'N.N.',
-        'value': 6,
+        'value': 10,
         'icon': ''
       },
       {
@@ -162,12 +162,12 @@ const data = [
     'items': [
       {
         'title': '48_Alluvium',
-        'value': 198,
+        'value': 202,
         'icon': 'svg/48_Alluvium.svg',
       },
       {
         'title': 'N.N.',
-        'value': 6,
+        'value': 10,
         'icon': '',
       },
       {
@@ -188,7 +188,7 @@ const data = [
     'items': [
       {
         'title': '31_Local-authority_bldg',
-        'value': 165,
+        'value': 169,
         'icon': 'svg/31_Local_authority_bldg.svg',
       },
       {
@@ -198,7 +198,7 @@ const data = [
       },
       {
         'title': 'N.N.',
-        'value': 13,
+        'value': 17,
         'icon': ''
       },
       {
@@ -214,7 +214,7 @@ const data = [
     'items': [
       {
         'title': '05_Assembly_group',
-        'value': 118,
+        'value': 119,
         'icon': 'svg/05_Assembly_group.svg',
       },
       {
@@ -224,7 +224,7 @@ const data = [
       },
       {
         'title': '03_Assembly_couple',
-        'value': 31,
+        'value': 32,
         'icon': 'svg/03_Assembly_couple.svg'
       },
       {
@@ -245,7 +245,7 @@ const data = [
       },
       {
         'title': '45_Tsunami',
-        'value': 66,
+        'value': 67,
         'icon': 'svg/45_Tsunami.svg',
       },
       {
@@ -255,7 +255,7 @@ const data = [
       },
       {
         'title': '51_Flood',
-        'value': 4,
+        'value': 5,
         'icon': 'svg/51_Flood.svg'
       },
     ],
@@ -266,17 +266,17 @@ const data = [
     'items': [
       {
         'title': '02_Woman',
-        'value': 153,
+        'value': 186,
         'icon': 'svg/02_Woman.svg',
       },
       {
         'title': 'N.N.',
-        'value': 12,
+        'value': 11,
         'icon': ''
       },
       {
         'title': '07_Girl',
-        'value': 11,
+        'value': 12,
         'icon': 'svg/07_Girl.svg'
       },
     ],
@@ -311,22 +311,22 @@ const data = [
     'items': [
       {
         'title': '56_Messaging_twoways',
-        'value': 147,
+        'value': 177,
         'icon': 'svg/56_Messaging_twoways.svg',
       },
       {
         'title': '55_Messaging_oneway',
-        'value': 17,
+        'value': 18,
         'icon': 'svg/55_Messaging_oneway.svg',
       },
       {
         'title': '67_Contain_message',
-        'value': 12,
+        'value': 18,
         'icon': 'svg/67_Contain_message.svg'
       },
       {
         'title': 'N.N.',
-        'value': 10,
+        'value': 9,
         'icon': ''
       },
     ],
